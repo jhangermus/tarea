@@ -1,0 +1,22 @@
+{
+  "name": "pwa-electroshop",
+  "version": "1.0.0",
+  "description": "pagina pwa para tarea",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "keywords": [
+    "pwa",
+    "progressive",
+    "web",
+    "app",
+    "complete",
+    "tarea"
+  ],
+  "author": "Jhanger",
+  "license": "IP",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
